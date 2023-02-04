@@ -1,0 +1,30 @@
+
+.boton {
+    background-color: #FC0202;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 90%;
+}
+.boton:hover {
+    background-color: #f44242;
+}
+
+.contenedor {
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    background-color: rgb(148, 140, 140);
+    font-size: 2vh;
+}
+
+.imagen {
+    max-width: 20rem;
+    padding: 1rem;
+}
+
+.link {
+    text-decoration: none;
+    color: #ad1;
+}
